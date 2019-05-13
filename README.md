@@ -8,4 +8,6 @@
 
 > [JavaScript30官網](https://javascript30.com/)
 
+> [JavaScript30 gitHub](https://github.com/wesbos/JavaScript30)
+
 > [JavaScript30影片](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
